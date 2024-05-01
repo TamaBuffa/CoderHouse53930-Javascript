@@ -1,0 +1,376 @@
+[ 
+    {
+        "id": "cafe-01",
+        "titulo": "PAPÚA NUEVA GUINEA",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-1.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-02",
+        "titulo": "HONDURAS",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-2.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-03",
+        "titulo": "BRASIL MEDIUM ROAST",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-3.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-04",
+        "titulo": "PERU",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-4.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-05",
+        "titulo": "COSTA RICA",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-5.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-06",
+        "titulo": "BRASIL PEDRA AZUL",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-6.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-07",
+        "titulo": "COLOMBIA SUPREMO",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-7.jpg",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-08",
+        "titulo": "BRASIL SANTOS BOURBON",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-8.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-09",
+        "titulo": "NICARAGUA",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-9.jpg",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-10",
+        "titulo": "COLOMBIAN DARK",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-10.jpg",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cafe-11",
+        "titulo": "COFFEE PASION",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-11.jpg",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+    {   
+        "id": "cafe-12",
+        "titulo": "COLOMBIA ORGANICO",
+        "imagen": "/Imagenes/cafe_en_granos/cafe-12.png",
+        "categoria": {
+            "nombre": "Café en granos",
+            "id": "cafegranos"
+        },
+        "precio": "1000"
+    },
+
+    {   
+        "id": "capsulas-01",
+        "titulo": "Cortado x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-01.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+    {   
+        "id": "capsulas-02",
+        "titulo": "Cappuccino x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-02.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-03",
+        "titulo": "Lungo x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-03.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-04",
+        "titulo": "Espresso x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-04.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-05",
+        "titulo": "Intenso x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-05.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-06",
+        "titulo": "Cafe Skinny x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-06.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-07",
+        "titulo": "Latte x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-07.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-08",
+        "titulo": "Chococcino x16caps Dolce Gusto",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-08.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-09",
+        "titulo": "Roma x10caps Nespresso",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-09.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-10",
+        "titulo": "Livanto x10caps Nespresso",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-10.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-11",
+        "titulo": "Vainilla x10caps Nespresso",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-11.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+    {   
+        "id": "capsulas-12",
+        "titulo": "Ristretto x10caps Nespresso",
+        "imagen": "/Imagenes/cafe_en_capsulas/capsulas-12.png",
+        "categoria": {
+            "nombre": "Café en cápsulas",
+            "id": "cafecaps"
+        },
+        "precio": "2000"
+    },
+
+
+    {   
+        "id": "barista-01",
+        "titulo": "Molino De Café Manual Portátil",
+        "imagen": "/Imagenes/barista/barista-01.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-02",
+        "titulo": "Molino Manual de ceramica",
+        "imagen": "/Imagenes/barista/barista-02.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-03",
+        "titulo": "Balanza Digital Coffee Scale CK2150 Touch",
+        "imagen": "/Imagenes/barista/barista-03.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-04",
+        "titulo": "Balanza Digital con Timer Touch",
+        "imagen": "/Imagenes/barista/barista-04.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-05",
+        "titulo": "Capsulas Recarg Dolce Gusto Caffettino",
+        "imagen": "/Imagenes/barista/barista-05.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-06",
+        "titulo": "Capsulas Recarg Nespresso Caffettino",
+        "imagen": "/Imagenes/barista/barista-06.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-07",
+        "titulo": "Kettle Cuello De Cisne Teflon-600 Ml",
+        "imagen": "/Imagenes/barista/barista-07.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-08",
+        "titulo": "Base para Porta Filtro y Tamper",
+        "imagen": "/Imagenes/barista/barista-08.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+
+    {   
+        "id": "barista-09",
+        "titulo": "Peine Distribuidor",
+        "imagen": "/Imagenes/barista/barista-09.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-10",
+        "titulo": "Pitcher Basic 12 Oz",
+        "imagen": "/Imagenes/barista/barista-10.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-11",
+        "titulo": "Cafetera Italiana Moka Mango",
+        "imagen": "/Imagenes/barista/barista-11.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    },
+    {   
+        "id": "barista-12",
+        "titulo": "Cafetera Portatil Trinity Zero",
+        "imagen": "/Imagenes/barista/barista-12.png",
+        "categoria": {
+            "nombre": "Barista",
+            "id": "barista"
+        },
+        "precio": "3000"
+    }
+]
